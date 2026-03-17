@@ -11,7 +11,8 @@
 ## Install instrusctions
 ### ON RELEASE NOTES FOR EACH RELEASE
 ## PREVIEWS
-### not here yet...
+<img width="659" height="413" alt="image" src="https://github.com/user-attachments/assets/df8dc1e8-7e86-482a-8358-063686be6033" /> <img width="659" height="413" alt="image" src="https://github.com/user-attachments/assets/9ba903cb-62e5-4f2b-ab9a-9b7b2bf6237b" />
+
 ## CREDITS
 ### ChatGPT ~ Help with code and errors
 ### Coto ~ Support and Company
